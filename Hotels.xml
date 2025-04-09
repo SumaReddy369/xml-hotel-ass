@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Hotels>
+  <Hotel>
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+    <Rating>4.2</Rating>
+  </Hotel>
+  <Hotel>
+    <Name>Hilton Garden Inn</Name>
+    <Phone>602-243-3423</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>3838</Number>
+      <Street>E Van Buren St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85008</Zip>
+    </Address>
+    <Rating>4.0</Rating>
+  </Hotel>
+  <Hotel>
+    <Name>Marriott Downtown</Name>
+    <Phone>602-333-0000</Phone>
+    <Phone>888-555-1234</Phone>
+    <Address NearestAirport="PHX">
+      <Number>100</Number>
+      <Street>N 1st Ave</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85003</Zip>
+    </Address>
+    <Rating>4.3</Rating>
+  </Hotel>
+  <Hotel>
+    <Name>Residence Inn</Name>
+    <Phone>480-345-1234</Phone>
+    <Address>
+      <Number>119</Number>
+      <Street>E Apache Blvd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+    <Rating>4.1</Rating>
+  </Hotel>
+  <Hotel>
+    <Name>Embassy Suites</Name>
+    <Phone>623-255-9876</Phone>
+    <Phone>800-222-2222</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>4400</Number>
+      <Street>S Rural Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85282</Zip>
+    </Address>
+    <Rating>4.4</Rating>
+  </Hotel>
+  <Hotel>
+    <Name>Holiday Inn Express</Name>
+    <Phone>480-555-9999</Phone>
+    <Address NearestAirport="Mesa Gateway">
+      <Number>1520</Number>
+      <Street>W Baseline Rd</Street>
+      <City>Mesa</City>
+      <State>AZ</State>
+      <Zip>85202</Zip>
+    </Address>
+    <Rating>3.8</Rating>
+  </Hotel>
+  <Hotel>
+    <Name>Courtyard by Marriott</Name>
+    <Phone>602-456-7890</Phone>
+    <Address>
+      <Number>601</Number>
+      <Street>N 44th St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85008</Zip>
+    </Address>
+    <Rating>4.0</Rating>
+  </Hotel>
+  <Hotel>
+    <Name>Hyatt Place</Name>
+    <Phone>623-333-1234</Phone>
+    <Phone>877-456-7890</Phone>
+    <Address NearestAirport="PHX International">
+      <Number>1413</Number>
+      <Street>W Rio Salado Pkwy</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+    <Rating>4.1</Rating>
+  </Hotel>
+  <Hotel>
+    <Name>Drury Inn & Suites</Name>
+    <Phone>480-876-2345</Phone>
+    <Address>
+      <Number>3333</Number>
+      <Street>E University Dr</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85034</Zip>
+    </Address>
+    <Rating>4.3</Rating>
+  </Hotel>
+  <Hotel>
+    <Name>Comfort Suites</Name>
+    <Phone>602-777-8888</Phone>
+    <Address NearestAirport="Scottsdale Airport">
+      <Number>1620</Number>
+      <Street>S 48th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+    <Rating>3.9</Rating>
+  </Hotel>
+</Hotels>
