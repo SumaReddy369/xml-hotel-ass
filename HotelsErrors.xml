@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Hotel> <!-- Error 1: Root should be <Hotels> -->
+  <Name>Broken Hotel</Name>
+  <Name>Duplicate Name</Name> <!-- Error 5: Two <Name> tags -->
+  <!-- Error 3: Missing <Phone> element -->
+  <Address NearestAirport="Nowhere Airport">
+    <Number>123</Number>
+    <Street>Broken St</Street>
+    <City>Errorville</City>
+    <!-- Error 2: Missing required <State> -->
+    <Zip>99999</Zip>
+  <!-- Error 4: No closing tag for <Address> -->
+</Hotel>
